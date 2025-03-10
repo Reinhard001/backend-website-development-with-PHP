@@ -1,0 +1,15 @@
+/* Existing styles from previous style.css */
+
+.user-initials {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+    border-radius: 50%;
+    background-color: #ADD8E6; /* Light blue */
+    color: #fff; /* White text */
+    font-size: 16px; /* Adjust font size as needed */
+    font-weight: bold;
+    margin-left: 5px; /* Add some space between the link and the circle */
+}
